@@ -2,6 +2,7 @@ this is first file
 
 my name is ashwin
 
-i ma java developer
+i m java developer
 
-i ma located in surat
+i m located in surat
+
